@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: url,
     title: 'Snowman on the Spring Day',
     subtitle:
-      '이것 저것 다 잘할거야',
+      '이것 저것 다 잘할테다',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
