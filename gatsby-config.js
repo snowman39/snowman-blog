@@ -7,9 +7,9 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Snowman on the Spring Day',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      '이것 저것 다 잘할거야',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -27,11 +27,11 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'Snowman',
       email: '#',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'snowman39',
       rss: '#',
       vk: '#',
     },
