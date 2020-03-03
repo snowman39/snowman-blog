@@ -1,15 +1,15 @@
 ---
-title: The Origins of Social Stationery Lettering
-date: "2016-12-01T22:40:32.169Z"
+title: Terms Oragnization(공부하며 모르는 짧막한 용어 정리)
+date: "2020-03-02T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/the-origins-of-social-stationery-lettering"
-category: "Design Culture"
+path: "/posts/Terms-organization"
+category: "development"
 tags:
-  - "Typefaces"
-  - "Lettering"
-  - "History"
-description: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante."
+  - "developer"
+  - "terms"
+  - "organize"
+description: "초보 개발자가 낯선 용어, 개념들을 마주칠 때마다 물리치고 정리해두는 곳"
 ---
 
 **Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
