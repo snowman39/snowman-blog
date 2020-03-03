@@ -51,10 +51,11 @@ updated for Gatsby v2 by the team at
     ├── pages
     │   ├── articles
     │   │   ├── 2016-01-09---Perfecting-the-Art-of-Perfection
-    │   │   ├── 2016-01-12---The-Origins-of-Social-Stationery-Lettering
-    │   │   ├── 2016-02-02---A-Brief-History-of-Typography
     │   │   ├── 2017-18-08---The-Birth-of-Movable-Type
-    │   │   └── 2017-19-08---Humane-Typography-in-the-Digital-Age
+    │   │   ├── 2017-19-08---Humane-Typography-in-the-Digital-Age
+    │   │   ├── 2018-10-18---Upgraded-to-Gatsby-v2
+    │   │   ├── 2020-03-03---django-sending-email-methods
+    │   │   └── 2020-03-03---Terms-organization
     │   └── pages
     │       ├── 2015-05-01---about
     │       └── 2015-05-01---contact
