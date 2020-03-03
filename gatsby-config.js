@@ -9,26 +9,26 @@ module.exports = {
     siteUrl: url,
     title: 'Snowman on the Spring Day',
     subtitle:
-      '이것 저것 다 잘할테다',
+      '내일 지구에 종말이 온다고 해도 오늘 한 그루의 사과나무를 심고싶은 눈사람',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: '배움',
         path: '/',
       },
       {
-        label: 'About me',
+        label: '기록',
         path: '/about/',
       },
       {
-        label: 'Contact me',
+        label: '연락처',
         path: '/contact/',
       },
     ],
     author: {
       name: 'Snowman',
-      email: '#',
+      email: 'kingzzang5@naver.com',
       telegram: '#',
       twitter: '#',
       github: 'snowman39',
@@ -122,6 +122,18 @@ module.exports = {
     },
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: 'gatsby-starter-default',
+        short_name: 'starter',
+        start_url: '/',
+        background_color: '#663399',
+        theme_color: '#663399',
+        display: 'minimal-ui',
+        icon: 'src/pages/photo.jpeg',
+      },
+    },
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: { trackingId: 'UA-73379983-2' },
